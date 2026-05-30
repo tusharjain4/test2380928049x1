@@ -1,0 +1,106 @@
+{
+  "name": "Mihir Sharma",
+  "role": "Senior Full-Stack & Mobile Engineer",
+  "tagline": "Dynamic Senior Full-Stack & Mobile Engineer with 5+ years of experience, specializing in architecting and deploying robust web and cross-platform mobile applications that drive product excellence and elevate user experiences.",
+  "about": "Highly motivated and detail-oriented Senior Software Engineer with over 5 years of professional experience. Expert in architecting, developing, and deploying robust full-stack web and cross-platform mobile applications. Proven ability to transform complex UI/UX designs into high-performance digital solutions, spanning real-time operational hospitality dashboards, corporate healthcare SaaS platforms, and premium luxury e-commerce experiences. Consistently drives product quality, reduces user churn, and enhances interface responsiveness through adherence to modern engineering standards.",
+  "experience": 3,
+  "currentRole": "Senior Software Engineer",
+  "skills": [
+    {
+      "name": "Languages & Frameworks",
+      "skills": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express",
+        "React Native",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Databases & Real-time",
+      "skills": [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "WebSockets (Socket.io)",
+        "RESTful APIs",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Tools & DevOps",
+      "skills": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "AWS (S3, EC2)",
+        "Vercel",
+        "Expo",
+        "Firebase Suite",
+        "CI/CD Pipelines",
+        "Agile/Scrum"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Zenflow - Clinical Workflow & Provider Management Dashboard",
+      "description": "Architected a comprehensive healthcare provider management SaaS dashboard to significantly optimize clinical workflow efficiency and practitioner coordination. Engineered a low-latency, dynamic weekly scheduling calendar grid capable of flawlessly coordinating simultaneous multi-practitioner time slots and real-time appointment statuses (Ongoing, Pending, Cancelled). Integrated secure operational metrics tables, modular analytics panels, and comprehensive partner-corporate client views for robust practitioner utilization monitoring.",
+      "tech": [
+        "React.js",
+        "TypeScript",
+        "Context API",
+        "Tailwind CSS",
+        "Date-fns",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Solitare - Premium Headless E-Commerce Jewelry Platform",
+      "description": "Developed a highly responsive and visually compelling headless e-commerce interface, tailored for immersive luxury catalog interaction and brand discovery. Implemented advanced localized category filters (Bangles, Necklaces, Rings, etc.), persistent client-side states, high-fidelity item grids, and seamless customer favorites/wishlist functionalities. Optimized modern asset delivery networks and lazy-loading mechanisms, achieving a remarkable 35% improvement in First Contentful Paint (FCP) across high-resolution product showcase nodes.",
+      "tech": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "GraphQL",
+        "Tailwind CSS",
+        "Shopify Storefront API"
+      ]
+    },
+    {
+      "name": "Pizza – Real-Time Hospitality Outlet Management Application",
+      "description": "Built a tablet-optimized, real-time outlet operations and layout management dashboard designed to minimize operational friction in high-volume dining environments. Engineered an intuitive live floor-plan manager utilizing persistent state updates to accurately map table statuses (Vacant, Occupied, Overdue) with automated alert systems. Established a centralized telemetry pipeline displaying key performance metrics (Average Table Turnaround time and Average Queue Time), successfully lowering seating friction intervals by 18%.",
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Express",
+        "Socket.io (WebSockets)",
+        "MongoDB",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Trinity – Personalized Mental Health & Wellness Mobile Application",
+      "description": "Designed and developed an intuitive, user-centric cross-platform mobile application focused on mental well-being, behavioral habits, and telehealth access. Created a smooth, interactive daily mood journaling module with specialized feedback components and micro-interactions that boosted user retention metrics by 22%. Established secure, encrypted synchronization endpoints for safe user data transmission, self-assessments, and streamlined clinical consultation appointment booking.",
+      "tech": [
+        "React Native",
+        "Expo",
+        "Redux Toolkit",
+        "Node.js",
+        "MongoDB",
+        "Firebase Authentication"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "mihir.sharma.dev@gmail.com",
+    "linkedin": "linkedin.com/in/mihir-sharma",
+    "github": "github.com/mihirsharma-dev"
+  }
+}
